@@ -1,5 +1,4 @@
 ## 🎨 Estética & Diseño
-El proyecto utiliza una paleta de colores **High Contrast** basada en los gustos personales de la autora:
 * **Rosa Pastel (#ffb7d5):** Utilizado en sombras sólidas y estados de interacción, aportando suavidad.
 * **Negro (#1a1a1a):** Define los bordes gruesos y la tipografía, dando una estructura neobrutalista.
 * **Mostaza (#ffdb58):** Color de acento para los botones de acción principal.
@@ -31,15 +30,15 @@ El proyecto utiliza una paleta de colores **High Contrast** basada en los gustos
 
 2. Entra a la carpeta del proyecto:
 
-cd vue-todo-app
+    cd vue-todo-app
 
 3. Instala las dependencias:
 
-npm install
+    npm install
 
 4.  Inicia el servidor de desarrollo:
 
-npm run dev
+    npm run dev
 
 
 Creado por [Traipe] (©) como parte de mi camino hacia Front-end Trainee.
